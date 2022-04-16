@@ -4,7 +4,7 @@ Hello Everyone. Im Boat_04. Im Learning C#,C++,Python And Assembly
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+wtf is markdown
 
 ```markdown
 print("Hi Im Gonna Say What Country Iam From")
